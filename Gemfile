@@ -18,6 +18,8 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'coffee-script-source', '1.8.0'
 
+gem 'bootstrap-sass'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
