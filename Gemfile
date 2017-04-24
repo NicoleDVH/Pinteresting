@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.2.6'
 
+
 gem 'rails', '4.0.0'
 
 gem 'sass-rails', '~> 4.0.0'
@@ -18,6 +19,9 @@ gem 'jbuilder', '~> 1.2'
 gem 'coffee-script-source', '1.8.0'
 
 gem 'bootstrap-sass'
+
+gem 'devise'
+
 
 group :development, :test do
 	gem 'sqlite3'
